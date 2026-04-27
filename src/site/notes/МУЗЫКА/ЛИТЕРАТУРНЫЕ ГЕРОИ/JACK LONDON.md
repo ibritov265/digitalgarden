@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/muzyka/literaturnye-geroi/jack-london/","dg-note-properties":{}}
 ---
 
-JACK LONDON
+<audio controls> <source src="https://www.dropbox.com/scl/fi/n72utt8cwp9sqhdmnc36w/JACK-LONDON.mp3?rlkey=mtb2ldwv20e2xeq8u9ul45j1x&st=g8f9dpwt&raw=1" type="audio/mpeg"> </audio>
 
 (припев)
 Если быть социалистом, то как Джек Лондон 

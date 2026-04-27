@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/muzyka/literaturnye-geroi/ken-k-easy/","dg-note-properties":{}}
 ---
 
-KEN K-EASY 
+<audio controls> <source src="https://www.dropbox.com/scl/fi/jjg43gea3qx7ruvifooxa/KEN-KEASY.mp3?rlkey=au62pwhxz7ymjjtjsul6g7qss&st=gs75789g&raw=1" type="audio/mpeg"> </audio>
 
 (припев)
 Заполучаю любых Барби и на изи 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/muzyka/drugoe/swag-that/","dg-note-properties":{}}
 ---
 
+<audio controls> <source src="https://www.dropbox.com/scl/fi/wsc5iyf4olkxckzjdncpl/swag-that.mp3?rlkey=9m1owault9p8yaknqqtvf29ic&st=2dzali76&raw=1" type="audio/mpeg"> </audio>
 swag that - стяни ебло 
 smack that - начни ремонт  
 slay that - счёт на табло

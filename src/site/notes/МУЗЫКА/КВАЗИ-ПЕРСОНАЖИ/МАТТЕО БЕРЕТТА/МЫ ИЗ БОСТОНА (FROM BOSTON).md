@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/muzyka/kvazi-persona-zh-i/matteo-beretta/my-iz-bostona-from-boston/","dg-note-properties":{}}
 ---
 
+<audio controls> <source src="https://www.dropbox.com/scl/fi/safratt9nxfzmu3l0of4u/FROM-BOSTON.mp3?rlkey=vzn7bnpeyaqfqc1ox6djaoexz&st=8ai2qmpz&raw=1" type="audio/mpeg"> </audio>
 Всё потому что мы из Бостона 
 Не отпечаток — не опознаны
 Здесь локоточки у всех острые

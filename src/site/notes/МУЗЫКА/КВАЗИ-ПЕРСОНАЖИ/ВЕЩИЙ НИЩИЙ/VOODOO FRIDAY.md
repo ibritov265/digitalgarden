@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/muzyka/kvazi-persona-zh-i/ve-shh-ij-ni-shh-ij/voodoo-friday/","dg-note-properties":{}}
 ---
 
+<audio controls> <source src="https://www.dropbox.com/scl/fi/m9162cqsp558kj8a7klpe/VOODOO-FRIDAY.mp3?rlkey=iugig2q3yx420i6z5ocvjld1w&st=o54obkhb&raw=1" type="audio/mpeg"> </audio>
 (припев)
 Я влетаю в пятницу словно Робинзон  
 Кремчиком намаслился, расстелил шезлонг

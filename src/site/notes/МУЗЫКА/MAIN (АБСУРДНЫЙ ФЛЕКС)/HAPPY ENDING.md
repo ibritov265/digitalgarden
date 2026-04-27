@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/muzyka/main-absurdnyj-fleks/happy-ending/","dg-note-properties":{}}
 ---
 
+<audio controls> <source src="https://www.dropbox.com/scl/fi/wv8fp5l6aqkkwc2vaig9c/HAPPY_ENDING.mp3?rlkey=chlm6bb632zku1mb8b2qdzw5q&st=x2bai3rs&raw=1" type="audio/mpeg"> </audio>
 каналы новостей all day за нами на хвосте
 Лихой как флибустьер, я не снижаю скоростей 
 хозяин ждёт гостей, чтобы сжигать их на костре
@@ -21,6 +22,3 @@
 Ты думал ты злодей, но ты не сдю́жил мой куплет
 Гаре́м твой опустел, переметнулся весь ко мне 
 Отхлынет пе́на дней, ты обнаружишься на дне
-
-картель 
-канитель

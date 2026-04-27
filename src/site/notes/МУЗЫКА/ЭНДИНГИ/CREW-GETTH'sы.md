@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/muzyka/endingi/crew-getth-sy/","dg-note-properties":{}}
 ---
 
+<audio controls> <source src="https://www.dropbox.com/scl/fi/wzigdbbyscrqp4169v3uo/.mp3?rlkey=og94eshxxyqlauhmsgznfpv6j&st=2x0motfe&raw=1" type="audio/mpeg"> </audio>
 Everybody's doing rap shit  
 Everyone's got their own RAP sheet  
 Мои тридцать братьев — мой щит  
@@ -36,8 +37,5 @@ Everyone's got their own RAP sheet
 Мои тридцать братьев — мой щит  
 Мы умрем, но мы затащим  
 
-(здесь происходит curb stomp?)
-(это белого звали Майкл Бом, с ним всё в порядке он профессиональный мальчик для битья)
 
-you were trying to act hard but was killed for bad acting 
-you don't know where to stop so now 
+
