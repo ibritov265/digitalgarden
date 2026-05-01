@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/muzyka/kvazi-persona-zh-i/bogemna-ya-assembli-ya-neo-sh-anson/d-and-g/","dg-note-properties":{}}
 ---
 
-(на мотив Рок-Острова - Ничего не говори)
+<audio controls> <source src="https://www.dropbox.com/scl/fi/kmlc2z1xop9aaod1h0jb1/D-G.mp3?rlkey=e48c9vb5redswoitlo0w1vg8l&st=dcobtipz&raw=1" type="audio/mpeg"> </audio>
 
 Я к структурам не вернусь
 Вывожу себя за них 
