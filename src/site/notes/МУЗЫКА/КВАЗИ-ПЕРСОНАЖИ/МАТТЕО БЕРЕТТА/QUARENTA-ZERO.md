@@ -1,0 +1,118 @@
+---
+{"dg-publish":true,"permalink":"/muzyka/kvazi-persona-zh-i/matteo-beretta/quarenta-zero/","dg-note-properties":{}}
+---
+
+харизматичная версия, но с ошибками:
+<audio controls> <source src="https://www.dropbox.com/scl/fi/zw5d086iy2f6pd6zluyfc/MATTEO-BERETTA-QUARENTA-ZERO.mp3?rlkey=24tw0up0yw5wwdsgsnqbb9y1j&st=l9b9has5&raw=1" type="audio/mpeg"> </audio>
+версия без ошибок в произошении:
+<audio controls> <source src="https://www.dropbox.com/scl/fi/4gjo7kiep437hh7p91r6q/MATTEO-BERETTA-QUARENTA-ZERO-light-clean.mp3?rlkey=s5pxgleqaogcfvd9qv4mcxv1s&st=r7e2ktw9&raw=1" type="audio/mpeg"> </audio>
+куарента-зеро фоти-лав
+всегда спокоен как удав
+под ноль свой гейм отпадавав
+акцент нюансу не придав
+не напрягаясь титул взяв
+даже немножечко озяб... 
+куарента-зеро фоти-лав
+король хардов, грунтов и трав
+
+я заявился на турнир
+предвосхищаю славный пир
+в порядке сам, в поряде gear 
+rest of the tour? я их кумир 
+
+мне всё равно, каков твой tier 
+со мной без шансов отлетишь 
+ещё до матча весь дрожишь 
+я здесь хозяин, ты гостишь 
+
+they call me walking highlight reel
+i never knew how losers feel 
+nobody's near me, no one will 
+for real i am the realest deal 
+
+В игре единственный игрок
+To bet against me is a joke  
+Лишаю душ, лишаю ног 
+Лишаю чести за trash talk 
+
+My victories contain no flaw 
+Так безупречны как мой flow
+Я щёлкал эйсы, ты — еблом 
+Я беру сет, ты — MTO 
+
+Твоя ракетка как весло
+То выдашь shank, то — double fault 
+Пойми, что стиль — не ремесло 
+И не "believe!" Тэда Лассо 
+
+троится championship point
+глотаешь пыль, глотаешь боль
+не издевайся над собой
+бери поднос, беги домой
+
+Я покоряю пьедестал
+За мной в погоне кем ты стал?
+Взял один сет — уже звезда
+Но несравним двух звёзд масштаб 
+
+It's either bagel or breadstick
+Потух твой факел, настрой сник 
+Мечты лишились перспектив
+Ты просто штрих в моём win streak 
+
+Мне всё равно, какой event 
+Ты с юниоров мой клиент 
+Так обещал реванш, но нет —
+You look so gassed, you look so spent
+
+Не подхалимствуй, лизоблюд
+Слова победы не куют
+Can't break my mental fortitude 
+Я не устал царить, отнюдь 
+
+Ракета — форхэнд, бэкхэнд — sledge 
+Дропшоты бога, мастер свеч 
+My feet are happy, hands are soft 
+Тебе придётся пить золофт 
+
+You're walkabout, I'm in the zone 
+Ты весь в грязи, хоть здесь газон
+Артист на корте — painting lines 
+Артист на майке — busting rhymes 
+
+Способны ли самцы гиен 
+Претендовать на Большой Шлем? 
+Толпа шакалов против льва? 
+По сетам лёгкие ноль-два
+
+Тебя зову "School in July"
+Ты удивившись, спросишь why? 
+Отвечу прямо без прикрас 
+It means your having zero class
+
+---
+Gear — экипировка, снаряжение
+Tier — уровень, ранг
+walking highlight reel — ходячий хайлайт / подборка красивых моментов (так всегда пишут про Алькараса)
+«Real deal» — это идиома, означающая что-то или кого-то подлинного, настоящего, высококачественного или стоящего, а не имитацию или пустышку. 
+In slang, "realest" is the superlative of "real" and means "most genuine," "most authentic," or "most sincere". It's used to praise someone or something for being true to themselves, exceptionally talented, or deeply reliable
+Bet against — ставить против 
+Энди Роддик о Новаке Джоковиче: «Сначала он забирает твои ноги, а потом — душу»
+«Flawless Victory» (рус. «Чистая победа», «Безупречная победа») — культовый термин из серии файтингов Mortal Kombat, означающий победу в раунде без получения урона. Это выражение стало нарицательным для обозначения идеального выполнения задачи или тотального превосходства над соперником.
+MTO — medical time-out 
+Shank — удар ободом 
+Double fault — двойная ошибка
+Тэд Лассо вешал в раздевалке бумажку "believe!"
+Тройной championship point — тройной матч-пойнт в финале, то есть, опять же 40-0 
+Поднос — почти всегда именно так выглядит награда за второе место
+Painting lines — неберущиеся точные удары по линиям 
+Bagel — баранка, breadstick — багет, победа со счётом 6-0 и 6-1 соответственно 
+Gassed, spent — выдохшийся, без сил
+Mental fortitude is the psychological and emotional strength to remain focused, disciplined, and resilient when facing adversity, stress, or long-term challenges
+Sledge = sledgehammer — кувалда
+In tennis, a "sledgehammer" refers to a powerful, two-handed backhand winner hit directly down the line, often characterized by raw speed and minimal spin to instantly end a point
+Дропшот — укороченный удар, свеча — удар по высокой траектории, попытка перебросить соперника, вышедшего к сетке 
+"Happy feet" in tennis refers to keeping your feet constantly moving and light, usually through small, rapid steps (split-step) on the balls of your feet to remain prepared for any shot
+"Soft hands" in tennis refers to a relaxed, light grip and flexible wrist, allowing a player to absorb the ball's energy rather than punching it back, crucial for delicate shots like volleys, drop shots, and touch lobs
+In the zone — в ударе, в пиковой форме/концентрации 
+Walkabout — антоним к in the zone: "walkabout" refers to a temporary mental lapse or complete loss of form, causing a player to miss easy shots and play poorly
